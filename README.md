@@ -51,3 +51,29 @@ __Data Analysis Process :__<br>
 # Story Pitch : 
 ### _In the early days of China, the per capita gdp was not very high, which also directly affected the recruitment and acceptance rate of Chinese universities. Until the 1990s, the number of new students in China was much higher than the number of participants. After 2000, although the number of participants in the college entrance exams has slowly rebounded, the growth rate of participants still appears to be negative in the data. But does GDP play a role in the number of admissions? Does China's urban planning and development after the reform and opening up also affect the enrollment rate? And does China's family planning program also affect GDP and indirectly or directly affect enrollment rates?_<br/>
 <br/>
+
+![w8rMT-time-series-prediction-on-chinese-college-admission-rate JPG](https://user-images.githubusercontent.com/109766640/182475125-b9609996-905f-4c4d-a80b-70fd0da0a477.png)
+
+### __Additional Sources Required :__<br/>
+* Each year may present different data in different regions, and I would like to analyze which regions in China get higher admissions rates by using GDP in the same birth year but different regions.<br/>
+* We also need data that supports the theory that a field or a study is in demand in that particular region. I would like to analyze the factors of recruitment by analyzing some specific areas of China for ethnic minorities and also relate to the influence of religion, family background, and geographical factors on the environment of the students.<br/>
+* We may also need ratings of different universities in China to better help us know what the requirements are for admission to universities. https://www.4icu.org/cn/<br/>
+<br/>
+
+### __Real People I would like to interview :__<br/>
+
+1. I would like to interview Huai Jingpeng, the Chinese Minister of Education. I would like to get from him what set of criteria will be followed for university admissions in China, and whether the geographical diversity of the regions and the GDP over the years will have any impact on the admissions criteria.<br/>
+* The Ministry of Education's office phone number: 0086-(0)10-66096114
+* The official Website of the China's Ministry of Education: http://en.moe.gov.cn
+* Exact address of the Ministry of Education: 37#Damucang Hutong, Xicheng District, Beijing, China
+<br/>
+2. China Education Information Network is the only website designated by China's Ministry of Education for education inquiries, the designated website for the Ministry of Education's Sunshine Project for college admissions, and the designated website for national master's degree enrollment registration and transfer. (https://www.chsi.com.cn) <br/>
+* Toll-free number 010-67410388<br/>
+* Email: kefu#chsi.com.cn<br/>
+<br/>
+3. Founded in 1957, the Chinese Academy of Educational Sciences is a national comprehensive educational research institute directly under the Ministry of Education of the People's Republic of China. （http://english.nies.edu.cn）<br/>
+* The number is (855) 468-5382<br/>
+* Email: nies@nasba.org<br/>
+<br/>
+
+I am sure that after my research and in-depth understanding of the Chinese admission system, I will have a better understanding of the Chinese recruitment system and the data associated with it.
