@@ -1,6 +1,9 @@
 # Data_Journalism_Final_Project
+## By Amy Peng
 This repository documents my analysis of the China College Entrance Examination Admission rate on birth year, college entrance examination year.
 
+### Data Analysis Process
+* Download the "China College Entrance Examination Admission"(data sheet)(https://www.kaggle.com/datasets/g9g99g9g/china-college-entrance-examination-admission) as .csv files, upload it to Google Drive, and open it with Google Sheets. <br>
 ## Analysis 1: Which year has the most new born population?
 __Data Analysis Process :__<br>
 1. Created a pivot table for Birth year, Newborn Population.<br>
