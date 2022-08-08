@@ -55,6 +55,7 @@ __Data Analysis Process :__<br>
 ### _In the early days of China, the per capita gdp was not very high, which also directly affected the recruitment and acceptance rate of Chinese universities. Until the 1990s, the number of new students in China was much higher than the number of participants. After 2000, although the number of participants in the college entrance exams has slowly rebounded, the growth rate of participants still appears to be negative in the data. But does GDP play a role in the number of admissions? Does China's urban planning and development after the reform and opening up also affect the enrollment rate? And does China's one child policy also affect GDP and indirectly or directly affect enrollment rates?_<br/>
 <br/>
 
+## Data Visualizations
 [Time Series Documentation on China College Admissions Rate (Datawrapper)](https://www.datawrapper.de/_/bdl9t/)
 ![bdl9t-time-series-documentation-on-chinese-college-admission-rate](https://user-images.githubusercontent.com/109766640/183361157-eddb915f-e454-4fc8-a022-ab68d654abed.png)
 
